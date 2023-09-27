@@ -237,6 +237,12 @@
         height: 76px;
         padding: 15px 0px;
     }
+
+    .video {
+        width: 55px;
+        height: 55px;
+        
+    }   
     .logo {
         width: 98px;
     }
